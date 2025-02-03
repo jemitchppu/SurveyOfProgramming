@@ -1,0 +1,15 @@
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\bin\Debug\net9.0\Module4.exe
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\bin\Debug\net9.0\Module4.deps.json
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\bin\Debug\net9.0\Module4.runtimeconfig.json
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\bin\Debug\net9.0\Module4.dll
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\bin\Debug\net9.0\Module4.pdb
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.AssemblyInfoInputs.cache
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.AssemblyInfo.cs
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.csproj.CoreCompileInputs.cache
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.sourcelink.json
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.dll
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\refint\Module4.dll
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.pdb
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\Module4.genruntimeconfig.cache
+D:\Point Park\SurveyOfProgramming\SurveyOfProgramming\Module4\obj\Debug\net9.0\ref\Module4.dll
