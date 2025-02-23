@@ -1,0 +1,28 @@
+@page
+@model webserviceModel
+@using System.Net.Http
+@using Microsoft.Extensions.DependencyInjection;
+
+@inject HttpClient httpClient
+
+<h1>API Data Results for NFL Teams</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Team Name</th>
+            <th>Team City</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var team in Model.Teams)
+        {
+            <tr>
+                <td>@team.Id</td>
+                <td>@team.TeamName</td>
+                <td>@team.TeamCity</td>
+            </tr>
+        }
+    </tbody>
+</table>
