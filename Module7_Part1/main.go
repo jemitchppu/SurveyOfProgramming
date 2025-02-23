@@ -29,8 +29,8 @@ func main() {
 	j = strings.TrimSpace(j)
 	j = strings.ToUpper(j)
 
-	fmt.Println(s + " are your favorite team!")
-	fmt.Println(r + " are the " + s + " biggest rival!")
-	fmt.Println(h + " are your hometown team!")
-	fmt.Println(j + " are the " + h + " biggest rival!")
+	fmt.Println("The " + s + " are your favorite team!")
+	fmt.Println("The " + r + " are the " + s + " biggest rival!")
+	fmt.Println("The " + h + " are your hometown team!")
+	fmt.Println("The " + j + " are the " + h + " biggest rival!")
 }
