@@ -1,0 +1,35 @@
+[
+    {
+      "title": "The Legend of Zelda: Ocarina of Time",
+      "genre": "Action-Adventure",
+      "year": "1998",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "director": "Eiji Aonuma",
+      "platform": "Nintendo 64",
+      "price": "60",
+      "switch": "true"
+    },
+    {
+      "title": "Banjo-Kazooie",
+      "genre": "Platformer",
+      "year": "1998",
+      "developer": "Rare",
+      "publisher": "Nintendo",
+      "director": "Gregg Mayles",
+      "platform": "Nintendo 64",
+      "price": "60",
+      "switch": "true"
+    },
+    {
+      "title": "Mario Kart 64",
+      "genre": "Kart Racing",
+      "year": "1997",
+      "developer": "Nintendo EAD",
+      "publisher": "Nintendo",
+      "director": "Hideki Konno",
+      "platform": "Nintendo 64",
+      "price": "60",
+      "switch": "true"
+    }
+  ]
